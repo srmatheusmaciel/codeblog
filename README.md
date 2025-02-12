@@ -65,7 +65,7 @@ O projeto utiliza as seguintes dependências:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/codeblog.git
+   git clone https://github.com/srmatheusmaciel/codeblog.git
    ```
 2. **Configure o banco de dados PostgreSQL** no arquivo `application.properties`:
    ```properties
